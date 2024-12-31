@@ -52,7 +52,7 @@ We’d love to hear from you!
 
 ## 📜 Licence
 
-Our repositories are governed by their respective licences. Please refer to the `LICENCE` file in each project for details.
+Our repositories are governed by their respective licences. Please refer to the `LICENSE` file in each project for details.
 
 
 Thank you for visiting **Synergi Tech**!
