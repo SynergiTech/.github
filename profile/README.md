@@ -34,12 +34,10 @@ Explore our GitHub organisation to discover Tools and libraries available for th
 
 ## 🛠️ How to Contribute
 
-We value collaboration and invite contributions from the community. Here’s how you can get involved:
+We value collaboration and invite contributions from the community to our open source packages. Here’s how you can get involved:
 
 1. **Raise an Issue**: Found a bug or have a suggestion? Open an issue in the relevant repository.
-2. **Submit Pull Requests**: Have a fix or a new feature idea? Share your code.
-3. **Engage**: Join discussions and collaborate with our team.
-4. **Spread the Word**: Share our work with your network to help us grow.
+2. **Submit Pull Requests**: Have a fix or a new feature idea? Create a Pull Request, adhering to the standards and test coverage and request our review.
 
 
 ## 📬 Contact Us
